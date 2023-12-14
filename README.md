@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James-wasonga
 - 👀 I’m interested in Software apps,Web and Blockchain Developments
-- 🌱 I’m currently learning Solidity and Java
+- 🌱 I’m currently learning Cairo, Solidity and Java
 - 💞️ I’m looking to collaborate with  More Software Development Industries
 - 📫 How to reach me jameswasonga22@gmail.com 
 
