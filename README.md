@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cairo, Solidity, Rust, Java, Python and other technical languages
 - 💞️ I’m looking to collaborate with  More Software Development Industries
 - 📫 How to reach me jameswasonga22@gmail.com
-- Twitter - @JamesWasonga8
+- Twitter - https://x.com/JamesWasonga8
 - +254793758686
 
 <!---
